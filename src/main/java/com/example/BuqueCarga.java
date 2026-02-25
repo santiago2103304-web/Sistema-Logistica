@@ -22,3 +22,4 @@ public class BuqueCarga extends Transporte {
         System.out.println("Costo estimado del viaje: $" + costoViaje);
     }
 }
+//
